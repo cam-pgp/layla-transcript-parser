@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+.env
+.env.backup
+/.idea
+/.vagrant
+.DS_Store
